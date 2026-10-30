@@ -2,7 +2,7 @@
 
 Phần mềm quản lý tiệm cầm đồ chạy trên Windows: hợp đồng cầm cố tài sản, cầm giấy tờ, tính lãi, chuộc, thanh lý, sổ quỹ và báo cáo lời lỗ.
 
-[⬇️ Tải bản mới nhất](https://github.com/manhbui0811/TonPawn/releases/latest/download/TonPawn.exe) · [Tất cả phiên bản](https://github.com/manhbui0811/TonPawn/releases) · [Trang giới thiệu](https://manhbui0811.github.io/TonSoft/#TonPawn)
+[⬇️ Tải bản mới nhất](https://github.com/manhbui0811/tonpawn/releases/latest/download/TonPawn.exe) · [Tất cả phiên bản](https://github.com/manhbui0811/tonpawn/releases) · [Trang giới thiệu](https://manhbui0811.github.io/TonSoft/#TonPawn)
 
 ## Tính năng
 - Hợp đồng cầm cố tài sản: lưu nháp, lập hợp đồng, nhân bản, chuộc, thanh lý
